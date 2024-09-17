@@ -1,76 +1,90 @@
-const logotext = "JOHN";
+const logotext = "Imran Farooq";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Imran Farooq",
+    description: "I’m Imran Farooq software engineer _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Imran Farooq",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Full Stack Developer",
+        second: "MERN Stack",
+        third: "AWS",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "A skilled MERN Stack developer with expertise in AWS, utilizing services like Lambda, EC2, and S3 buckets to build scalable and efficient applications.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "about my self",
+    aboutme: "I am a versatile MERN Stack developer with a strong background in building scalable web applications using both JavaScript and TypeScript. Alongside my expertise in AWS services like Lambda, EC2, and S3 buckets, I have experience working with other technology stacks, enabling me to deliver efficient and modern cloud-based solutions.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "MERN Stack Developer",
+        where: "Code's Thinker Bahawalpur",
+        date: "2023 - Present",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "Jamalya",
+    //     date: "2019",
+    // },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "ALquds",
+    //     date: "2019",
+    // },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Node Js",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "React Js",
+        value: 90,
     },
     {
         name: "Javascript",
+        value: 95,
+    },
+    {
+        name: "Express Js",
+        value: 85,
+    },
+    {
+        name: "Mongodb",
+        value: 85,
+    },
+    {
+        name: "RTK",
+        value: 90,
+    },
+    {
+        name: "React Query",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
+        name: "MUI",
+        value: 90,
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+const services = [
+    {
+        title: "Comprehensive Full Stack Development",
+        description: "We provide end-to-end web application development, from sleek front-end designs to powerful back-end systems. Using the latest technologies like the MERN Stack and AWS, we deliver scalable, efficient solutions tailored to your needs.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Seamless Deployment & Maintenance",
+        description: "We handle the seamless launch and maintenance of your application, managing cloud setups and performance to ensure reliability and scalability. Our end-to-end deployment ensures your app runs smoothly from day one and continues to perform optimally.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Expert Front End & Backend Solutions",
+        description: "We offer comprehensive development and maintenance services for both front-end and back-end, ensuring your application is always up-to-date and performs at its best.",
     },
 ];
+
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
@@ -136,20 +150,23 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "imranf620@gmail.com",
+    YOUR_FONE: "+92 317 656 5404",
+    description: "I’m here to help with any inquiries or project discussions you may have. Feel free to reach out via email or phone. Whether you have questions about my services, want to discuss a potential project, or need assistance, I’m just a message or call away.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_cg4guzn",
+    // YOUR_SERVICE_ID: "service_id",
+    YOUR_TEMPLATE_ID: "template_7p551jf",
+    // YOUR_TEMPLATE_ID: "template_id",
+    YOUR_USER_ID: "nKSSJ2z2EXTOzJarE",
+    // YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/Imranf620/",
+    facebook: "https://www.facebook.com/imranf620?mibextid=ZbWKwL",
+    linkedin: "https://www.linkedin.com/in/imranfarooqqaisrani/",
     twitter: "https://twitter.com",
 };
 export {
