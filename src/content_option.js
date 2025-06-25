@@ -13,7 +13,7 @@ const introdata = {
     },
     description:
         "Results-driven developer with a focus on building scalable, event-driven, and AI-powered applications. Experienced in leading projects, optimizing system performance, and delivering full-stack solutions that create real business impact.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "/MainProfile.jpeg",
 };
 
 const dataabout = {
