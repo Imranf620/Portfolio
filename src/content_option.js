@@ -73,32 +73,27 @@ const dataportfolio = [
         link: "https://tryleo.ai",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: "/frontdeskpro.png",
         description: "FrontDeskPro - AI call automation with voice services and AWS CI/CD",
         link: "https://frontdeskpro.ai",
     },
     {
-        img: "/frontdeskpro.png",
+        img: "/clikkle.com.png",
         description: "Clikkle - SaaS platform with e-signatures, cloud storage, and ad tools",
         link: "https://clikkle.com",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "/komras.png",
         description: "School Management System - Real-time analytics, PostgreSQL & TypeScript",
-        link: "https://lms-client-hazel.vercel.app",
+        link: "https://lms-client-hazel.vercel.app/auth/login",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "Anesthesiology Quiz App - RESTful APIs & MongoDB-based analytics",
-        link: "https://mvpdemo.info",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "/catchACharacter.png",
         description: "CatchACharacter - Magical photo app with 100K+ downloads (React Native)",
         link: "https://play.google.com/store/apps/details?id=com.catchacharacter",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "/toothfairy.webp",
         description: "MyToothFairy - Photo app extension with sticker overlays (React Native)",
         link: "https://play.google.com/store/apps/details?id=com.mytoothfairy",
     },
