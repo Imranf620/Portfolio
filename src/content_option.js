@@ -8,11 +8,11 @@ const introdata = {
     title: "I’m Imran Farooq",
     animated: {
         first: "Full Stack Developer",
-        second: "MERN, Next.js, NestJS, AWS",
-        third: "Cloud & AI Integrations",
+        second: "Node.js · React.js · React Native · Next.js",
+        third: "Cloud Infrastructure · AI Integrations",
     },
     description:
-        "Results-driven developer with a focus on building scalable, event-driven, and AI-powered applications. Experienced in leading projects, optimizing system performance, and delivering full-stack solutions that create real business impact.",
+        "Full Stack Developer with expertise in scalable, event-driven, and AI-powered apps. Skilled in JS, TS, Python, C++, React.js, React Native, Next.js, Node.js, NestJS, Kafka, Supabase, and databases like PostgreSQL, MongoDB, Redis. I build cloud-native systems with AWS, Docker, CI/CD, and integrate AI using OpenAI, LangChain and ElevenLabs, along with real-time features via Socket.IO and WebRTC.",
     your_img_url: "/MainProfile.jpeg",
 };
 
