@@ -23,16 +23,17 @@ const dataabout = {
 };
 
 const worktimeline = [
+     {
+        jobtitle: "Software Engineer",
+        where: "Algotix AI, Bahawalpur",
+        date: "Nov 2024 - Present",
+    },
     {
         jobtitle: "Full Stack Developer",
         where: "Code's Thinker, Bahawalpur",
         date: "Jul 2023 - Nov 2024",
     },
-    {
-        jobtitle: "Software Engineer",
-        where: "Algotix AI, Bahawalpur",
-        date: "Nov 2024 - Present",
-    },
+   
 ];
 
 const skills = [
