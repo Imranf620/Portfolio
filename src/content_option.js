@@ -88,6 +88,11 @@ const dataportfolio = [
         description: "School Management System - Real-time analytics, PostgreSQL & TypeScript",
         link: "https://lms-client-hazel.vercel.app/auth/login",
     },
+       {
+        img: "/legacykeeper.png",
+        description: "LegacyKeeper - AI-powered estate planning and document management platform (Next.js, Supabase, OpenAI)",
+        link: "https://legacykeeper.app/",
+    },
     {
         img: "/catchACharacter.png",
         description: "CatchACharacter - Magical photo app with 100K+ downloads (React Native)",
